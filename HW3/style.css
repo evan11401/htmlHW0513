@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+    
+}
+#timeLable{
+    position: absolute;
+    visibility: hidden;
+    
+    top:50px;
+    Left:50px;  
+    font-size:80px;
+    transform:rotate(30deg);
+}
